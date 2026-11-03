@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Vespertine</h1>
 
-<!--
-**Ysmeral/Ysmeral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>of the evening.</i><br>
+  <sub>VES &middot; per &middot; teen &nbsp;&mdash;&nbsp; the blue hour, when things go quiet and start to glow.</sub>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>#1a1626</code> &nbsp;
+  <code>#42385c</code> &nbsp;
+  <code>#8b6f8f</code> &nbsp;
+  <code>#d4a5a5</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```txt
+now    ·  building quiet things
+before ·  too many late nights
+after  ·  ?
+```
+
+<p align="center"><sub>say it: <b>VES-per-teen</b></sub></p>
